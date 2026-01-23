@@ -2,18 +2,6 @@
 
 ### MSCS Student @ Columbia University
 
-- 🔭 I'm currently working on **optimizing my personal LLM-integrated full stack web platform**
-
-- 🌱 I'm currently learning **Machine Learning**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 📫 How to reach me **windsnow1025@gmail.com**
-
-- ⚡ Fun fact **ISTJ**
-
-- 👨‍💻 All of my projects are available at **[https://www.windsnow1025.com](https://www.windsnow1025.com)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/windsnow1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="windsnow1025" height="30" width="40" /></a>
